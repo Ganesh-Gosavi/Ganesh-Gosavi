@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in//ganesh-gosavi-6856b1230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/ganesh-gosavi-6856b1230/" height="30" width="40" /></a>
 <a href="https://fb.com/ganesh.gosavi.904750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ganesh.gosavi.904750" height="30" width="40" /></a>
 <a href="https://instagram.com/gana_gosavi45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gana_gosavi42" height="30" width="40" /></a>
-  <a href="[https://instagram.com/gana_gosavi45](https://twitter.com/ganeshgosa95697)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gana_gosavi42" height="30" width="40" /></a>
+  <a href="[https://instagram.com/gana_gosavi45](https://twitter.com/ganeshgosa95697)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gana_gosavi42" height="30" width="40" /></a>
 </a>
 </p>
 
