@@ -1,5 +1,5 @@
-<
-  h1 align="center">Hi 👋, I'm Ganesh Gosavi</h1>
+
+  <h1 align="center">Hi 👋, I'm Ganesh Gosavi</h1>
 <h3 align="center">A passionate WebDeveloper from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh-gosavi&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh-gosavi" /> </p>
