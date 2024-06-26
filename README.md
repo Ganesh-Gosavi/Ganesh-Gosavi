@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ganesh Gosavi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<
+  h1 align="center">Hi 👋, I'm Ganesh Gosavi</h1>
+<h3 align="center">A passionate WebDeveloper from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh-gosavi&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh-gosavi" /> </p>
 
-- 🔭 I’m currently working on **React js**
-
-- 🌱 I’m currently learning **React,javascript**
-
-- 💬 Ask me about **Web-Development**
+- 💬 Ask me about **Full-stack web development with Redux, MySQL, WordPress, and proficiency in C/C++, Java, HTML/CSS, JavaScript, SQL.**
 
 - 📫 How to reach me **ganeshgosavi92@gmail.com**
 
@@ -15,9 +12,9 @@
 <p align="left">
 <a href="https://linkedin.com/in//ganesh-gosavi-6856b1230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/ganesh-gosavi-6856b1230/" height="30" width="40" /></a>
 <a href="https://fb.com/ganesh.gosavi.904750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ganesh.gosavi.904750" height="30" width="40" /></a>
-<a href="https://instagram.com/gana_gosavi42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gana_gosavi42" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ganeshgosavi7000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ganeshgosavi7000" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ganeshgosavi92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ganeshgosavi92" height="30" width="40" /></a>
+<a href="https://instagram.com/gana_gosavi45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gana_gosavi42" height="30" width="40" /></a>
+  <a href="[https://instagram.com/gana_gosavi45](https://twitter.com/ganeshgosa95697)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gana_gosavi42" height="30" width="40" /></a>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
